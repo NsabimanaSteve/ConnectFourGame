@@ -12,7 +12,7 @@
  * - Initiates and displays the game board.
  * - Alternates player turns, prompting disc placement.
  * - Checks for wins or draws after each move.
- * - Ends the game and declares the winner or draw.
+ * - Ends the game  and declares the winner or draw.
  * 
  * initBoard Method: Initializes the game board.
  * 
